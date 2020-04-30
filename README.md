@@ -7,4 +7,4 @@ console.log(as);
 // comment after push force
 
 // hey i am here to 
-
+//  yeah mam whatsupp??
